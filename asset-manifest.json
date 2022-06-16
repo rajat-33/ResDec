@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ResDec/static/css/main.b06f9ca4.css",
+    "main.js": "/ResDec/static/js/main.60226099.js",
+    "index.html": "/ResDec/index.html",
+    "main.b06f9ca4.css.map": "/ResDec/static/css/main.b06f9ca4.css.map",
+    "main.60226099.js.map": "/ResDec/static/js/main.60226099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06f9ca4.css",
+    "static/js/main.60226099.js"
+  ]
+}
